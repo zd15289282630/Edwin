@@ -19,6 +19,8 @@
     
     NSLog(@"hfhhhg");
     NSLog(@"asdawwee");
+    NSLog(@"hfhhhg");
+    NSLog(@"asdawwee");
 }
 
 
